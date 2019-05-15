@@ -1,1 +1,0 @@
-# git-formation-sample
